@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe6f2;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #ff3399;
+    font-size: 50px;
+}
+
+p {
+    font-size: 24px;
+    color: #cc0066;
+}
+
+.balloons {
+    font-size: 80px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 5px solid #ff99cc;
+    border-radius: 15px;
+    margin-top: 20px;
+}
